@@ -1,5 +1,7 @@
 <h1 align="center">Привет! Меня зовут Павел👋</h1>
 
+---
+
 🎯 Хочу развиваться и разбираться в WEB разработке
 
 🥋 Стремлюсь к работе в настоящей dream-team
@@ -24,3 +26,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" **alt="MongoDB" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS" **alt="VS" width="40" height="40"/>
 </div>
+
+<h2>🛠 Моя статистика</h2>
