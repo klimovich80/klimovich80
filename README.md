@@ -26,4 +26,4 @@
 </div>
 ---
 <h2>🛠 Моя статистика</h2>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=klimovich80&theme=highcontrast)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=klimovich80&theme=highcontrast" alt="GitHub Streak" /></a>
