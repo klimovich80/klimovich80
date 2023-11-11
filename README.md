@@ -24,7 +24,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" **alt="MongoDB" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS" **alt="VS" width="40" height="40"/>
 </div>
----
 <h2>🛠 Моя статистика</h2>
 <div><a href="https://www.codewars.com/users/klimovich80"><img src="https://www.codewars.com/users/klimovich80/badges/large"/></a></div>
 <div><a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=klimovich80&theme=prussian" alt="GitHub Streak" /></a></div>
