@@ -1,18 +1,12 @@
-<h1 align="center">Привет! Меня зовут Павел.</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
+<h1 align="center">Привет! Меня зовут Павел👋</h1>
 
-<!--
-**klimovich80/klimovich80** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Хочу развиваться и разбираться в WEB разработке
 
-Here are some ideas to get you started:
+🥋 Стремлюсь к работе в настоящей dream-team
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔥 Горю желанием изучать новые фрэймворки
+
+🤝 Люблю лаконичный и красивый код.
+
+🚀 Ищу стоящий боевой проект
+
